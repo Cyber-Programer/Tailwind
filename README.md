@@ -61,3 +61,5 @@ npm install -D tailwindcss postcss autoprefixer vite
   ```bash
       npm run dev
   ```
+
+Follow This Process Step By Step -> Then Your Tailwind have ready to use
